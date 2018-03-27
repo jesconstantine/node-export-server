@@ -41,7 +41,8 @@ const cdnScriptsOptional = {
   '{{version}}/modules/sunburst.js': 1,
   '{{version}}/modules/xrange.js': 1,
   '{{version}}/modules/streamgraph.js': 1,
-  '{{version}}/modules/tilemap.js': 1
+  '{{version}}/modules/tilemap.js': 1,
+  '{{version}}/modules/histogram-bellcurve.js':1
 };
 
 const cdnScriptsCommon = [
